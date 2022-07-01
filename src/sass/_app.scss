@@ -1,0 +1,32 @@
+.tabs {
+  max-width: 325px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 82px;
+  padding-bottom: 75px;
+
+  @media (max-width: 768px) {
+    margin: 0 20px;
+    justify-content: start;
+    padding-top: 37px;
+    padding-bottom: 44px;
+  }
+
+  .tab {
+    color: #141414;
+    font-weight: 700;
+    font-size: 36px;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+    &--active {
+      border-bottom: solid 5px #141414;
+    }
+
+    @media (max-width: 768px) {
+      font-size: 18px;
+      margin-right: 23px;
+    }
+  }
+}
