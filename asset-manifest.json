@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/anding-page-test/static/css/main.efde8d12.css",
+    "main.js": "/anding-page-test/static/js/main.78e63004.js",
+    "static/media/julia-d-FlNTu2Bj4Dg-unsplash.jpg": "/anding-page-test/static/media/julia-d-FlNTu2Bj4Dg-unsplash.3fd6812582c644c852ca.jpg",
+    "static/media/joeyy-lee-3TnDfD2hIxg-unsplash.jpg": "/anding-page-test/static/media/joeyy-lee-3TnDfD2hIxg-unsplash.e18e78e6bf1640269445.jpg",
+    "static/media/angelica-echeverry-mI82mfLu538-unsplash 1.jpg": "/anding-page-test/static/media/angelica-echeverry-mI82mfLu538-unsplash 1.d430bf965299afeb0a04.jpg",
+    "static/media/taisiia-stupak-viq7xx1boxo-unsplash 1.jpg": "/anding-page-test/static/media/taisiia-stupak-viq7xx1boxo-unsplash 1.561483eebdab67d0d722.jpg",
+    "static/media/OrchideaPro-Medium.ttf": "/anding-page-test/static/media/OrchideaPro-Medium.6c02bf7eeb2709cbe31b.ttf",
+    "static/media/OrchideaPro-MediumItalic.eot": "/anding-page-test/static/media/OrchideaPro-MediumItalic.ea5c1fb825953200fe28.eot",
+    "static/media/cat-han-BJ3grTerqY4-unsplash.jpg": "/anding-page-test/static/media/cat-han-BJ3grTerqY4-unsplash.2e72abb618e04b5c358e.jpg",
+    "static/media/bulbul-ahmed-QFWGnLHnBNQ-unsplash.jpg": "/anding-page-test/static/media/bulbul-ahmed-QFWGnLHnBNQ-unsplash.9eff5d8db767ac4e181a.jpg",
+    "static/media/OrchideaPro-MediumItalic.woff": "/anding-page-test/static/media/OrchideaPro-MediumItalic.85226d8ad082bc366724.woff",
+    "static/media/anastasia-anastasia-nlQFycTD04M-unsplash.jpg": "/anding-page-test/static/media/anastasia-anastasia-nlQFycTD04M-unsplash.7359c4a5e2dcfa0e0cc2.jpg",
+    "static/media/OrchideaPro-MediumItalic.woff2": "/anding-page-test/static/media/OrchideaPro-MediumItalic.31b9c3dc4338d381f0ec.woff2",
+    "static/media/logo.svg": "/anding-page-test/static/media/logo.d7b6b70eae525898cf752fa65a47cece.svg",
+    "static/media/phone-icon.svg": "/anding-page-test/static/media/phone-icon.c8c29ba82674223d048909bcc3c69398.svg",
+    "index.html": "/anding-page-test/index.html",
+    "main.efde8d12.css.map": "/anding-page-test/static/css/main.efde8d12.css.map",
+    "main.78e63004.js.map": "/anding-page-test/static/js/main.78e63004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efde8d12.css",
+    "static/js/main.78e63004.js"
+  ]
+}
